@@ -1,0 +1,38 @@
+.blocoVerde {
+  color: green;
+  border: 1px solid green;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  width: 290px;
+  padding: 5px 5px 5px 5px;
+}
+
+.blocoVermelho {
+  color: red;
+  border: 1px solid red;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  width: 290px;
+  padding: 5px 5px 5px 5px;
+}
+
+.blocoAzul {
+  color: blue;
+  border: 1px solid blue;
+  width: 290px;
+  padding: 5px 5px 5px 5px;
+}
+
+.blocoUnico {
+  width: 910px;
+  border: 1px solid blue;
+  padding: 5px 5px 5px 5px;
+}
+
+.flutuarEsquerda {
+  float: left;
+}
+
+.limparFloat {
+  clear: both;
+}
